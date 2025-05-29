@@ -11,3 +11,7 @@ In particular, two-point functions, effective and Schwarzian actions are compute
 ## 📘 Thesis
 
 - [Download Thesis (PDF)](./final_v1_Conformal_Field_Theory_and_the_SYK_Model.pdf)
+
+## Remarks
+
+The TeX source will be uploaded after the last corrections have been made (around June 8th 2025)
