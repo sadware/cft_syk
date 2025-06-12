@@ -8,7 +8,7 @@ This project focuses on conformal field theory and its application to the Sachde
 
 ## 📘 Thesis
 
-- [Download Thesis (PDF)](./final_v1_Conformal_Field_Theory_and_the_SYK_Model.pdf)
+- [Download Thesis (PDF)](./Conformal_Field_Theory_and_the_SYK_Model.pdf)
 
 ## Remarks
 
